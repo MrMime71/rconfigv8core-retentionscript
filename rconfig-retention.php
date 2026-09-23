@@ -375,4 +375,3 @@ echo "Files deleted: {$deletedFiles}\n";
 echo "Files retained due to surviving references: " .
     count($sharedReferencedFiles) . "\n";
 echo "File deletion errors: {$fileErrors}\n";
-pal@playbook:~/rconfig8coredocker$
